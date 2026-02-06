@@ -2,4 +2,5 @@
     <string name="app_name">Lab5-starter</string>
     <string name="remove_city">Remove City</string>
     <string name="add_city">Add City</string>
+    <string name="helpMessage">Tap City to Select For Delete\nPress and Hold City to Edit</string>
 </resources>
